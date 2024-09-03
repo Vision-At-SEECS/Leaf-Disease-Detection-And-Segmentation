@@ -1,4 +1,4 @@
-# leaf disease classificaton and segmentation
+# Leaf Disease Classificaton and Segmentation
 
 ## Table of Contents
 1. [Classification](#classification)
